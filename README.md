@@ -6,7 +6,7 @@ In this study, 249 mice who were identified with SCC tumors received treatment w
 
 The data used can be located within the "/data" folder
 
-The main script used to run the analysis can be found under "Matplotlib.py"
+The main script used to run the analysis can be found under "Matplotlib.ipynb"
 
 ## Instructions
 
